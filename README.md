@@ -1,4 +1,4 @@
-# Hello!
+# Hello! My name is Autumn Ava Barnes.
 
 I've made all the stuff you see below;
 I'm a freelance-programmer, game-developer, artist, video editor, and other related titles.
